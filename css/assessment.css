@@ -1,0 +1,101 @@
+.murdoch {width:20%;}
+
+
+.area
+{
+	display:inline-block;
+
+	margin-left:25%;
+	font-weight:bold;
+
+}
+
+.row 
+{
+   margin-left:30%;
+}
+
+fieldset { 
+  display: block;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding: 0.35em 0.625em 0.75em 0.75em;
+  border: 2px groove black;
+}
+
+.scheduler-border {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+}
+
+.star
+{
+	margin-right:5px;
+}
+
+.total
+{
+    margin-top:5px;
+    margin-bottom:10px;
+}
+.bottom
+{
+    margin-top:1%;
+}
+.box
+{
+margin-left:auto;
+margin-right:auto;
+display:block;
+
+width:50px;
+}
+.button
+{
+	width:12%;
+	height:30px;;
+	color:red;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+
+
+.room
+{
+margin-right:10%;
+}
+.left
+{
+margin-right:3%;
+font-weight:bold;
+}
+
+
+	
+.submit
+{
+display:block;
+width:80px;
+margin-left:45%;
+}
+
+#footer
+{
+    margin: 10px auto 0 auto;
+    width: 100%;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    text-align: center;
+
+}
+
+.right
+{
+    margin-left:2%;
+}
+}
+

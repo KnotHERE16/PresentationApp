@@ -1,0 +1,40 @@
+body
+{
+	margin: 0;
+	font-family: Consolas, monaco, monospace;
+}
+
+.container {
+	background-color: #FFFFFF;
+	width:100%;
+	padding-bottom: 50px;
+}
+.profile
+{
+	width: 95%;
+	margin-top: 65px;
+	margin-left: 2.5%;
+}
+.scheduleTitle {
+	font-size: 20px;
+}
+.schedule
+{
+	padding: 0px;
+	border: 2px solid #000000;
+	background-color:#F4F4F4;
+	height: 265px;
+	font: 20px;	
+	overflow: auto;
+}
+
+.scheduleDetails
+{
+    width: 100%;
+	padding: 20px; 
+	border: 0.5px solid #000000;
+	float:left;
+	font-family: Consolas, monaco, monospace;
+	background-color: #F4F4F4;
+	text-align: center;
+}

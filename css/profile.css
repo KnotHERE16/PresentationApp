@@ -1,0 +1,169 @@
+body
+{
+	margin: 0;
+	font-family: Consolas, monaco, monospace;
+}
+.show {
+    display: block;
+}
+.hidden {
+    display: none;
+}
+/*CHART CSS*/
+#chart { 
+	padding: 20px; 
+	border: 2px solid #000000;
+	background-color:#F4F4F4;
+}
+
+table {
+  width: 100%;
+  height: 400px;
+  table-layout:fixed;
+  overflow:hidden ;
+}
+
+.charttitle {
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  vertical-align: top;
+
+}
+.charttitleholder {
+	height: 20%;
+}
+.bars { overflow: auto;}
+.bars td {vertical-align: bottom; font-size: 10px; text-align: center;}
+.bars div:hover{ opacity: 0.6;}
+
+.legbox
+{
+	display :block;
+	clear: both;
+}
+
+/*END OF CHART CSS*/
+
+
+.container {
+	background-color: #FFFFFF;
+	width:100%;
+	padding-bottom: 50px;
+}
+
+.profile
+{
+	width: 95%;
+	margin-top: 65px;
+	margin-left: 2.5%;
+}
+.imgAndUpload
+{
+ float: left;
+ margin: 0 auto;
+ padding-left: 25%;
+}
+.profileDetails
+{
+	
+	padding: 12px;
+	padding-top: 7px;
+	color: black;
+	display: block;
+	margin-bottom : 0px;
+	font-family: "Arial", sans-serif;
+	font-weight: bolder;
+	opacity: 0.9;
+	text-align: center;
+	letter-spacing: 3px;
+	overflow: hidden;
+	
+}	
+
+.rounded-circle
+{
+	width: 80%;
+	height: 25%;
+	border: 1px solid #FF3131;
+
+}
+
+#fileToUpload
+{
+    margin: 0;
+    margin-left: 30px;
+    font-size: 12px;
+}
+
+#submit
+{
+    margin-left:30px;   
+    font-size: 12px;
+}
+#changeEmail
+{
+    float: right;
+    font-size: 12px;
+}
+
+.assessorTitle {
+	font-size: 20px;
+}
+.chartTitle
+{
+   font-size: 20px; 
+}
+.assessor
+{
+	padding: 0px;
+	border: 2px solid #000000;
+	background-color:#F4F4F4;
+	height: 355px;
+	font: 20px;	
+	overflow: auto;
+}
+
+.assessorDetails
+{
+    width: 100%;
+	padding: 20px; 
+	border: 0.5px solid #000000;
+	float:left;
+	font-family: Consolas, monaco, monospace;
+	background-color: #F4F4F4;
+	text-align: center;
+}
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 601px) {
+  div.profileDetails {
+    font-size: 26px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  div.profileDetails {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  #chart {
+    margin-top: 150px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  #chart {
+    margin-top: 65px;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  div.imgAndUpload {
+    width: 30%;
+    padding-left: 5%;
+  }
+}

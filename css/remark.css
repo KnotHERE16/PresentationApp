@@ -1,0 +1,35 @@
+body
+{
+	margin: 0;
+	font-family: Consolas, monaco, monospace;
+}
+.container {
+	background-color: #FFFFFF;
+	width:100%;
+	padding-bottom: 50px;
+}
+
+.remark{
+	font-family: Consolas, monaco, monospace;
+	width: 100%;
+	margin-top: 20px;
+	padding: 20px; 
+	border: 2px solid #000000;
+	background-color: #F4F4F4;
+}
+.comment
+{
+	margin-top: 10px;
+	background-color: black;
+	color: white;
+}
+
+h1
+{
+	margin-left: 9%;
+}
+@media screen and (max-width: 600px) {
+  div.remark {
+    font-size: 12px;
+  }
+}

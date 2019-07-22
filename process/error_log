@@ -1,0 +1,261 @@
+[30-Mar-2019 00:45:12 America/Chicago] PHP Warning:  require_once(Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/login2.php on line 4
+[30-Mar-2019 00:45:12 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/login2.php on line 4
+[02-Apr-2019 11:44:47 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:44:47 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:44:47 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:44:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/SchedulingProcess.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 18
+[02-Apr-2019 11:46:08 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:46:08 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:46:08 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 4
+[02-Apr-2019 11:46:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/SchedulingProcess.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/SchedulingProcess.php on line 18
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:07:39 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:07:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:03 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:18 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:29 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:52 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:08:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:09:05 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:09:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:10:12 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:10:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(index.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(): Failed opening 'index.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 3
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:11:41 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:11:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/otpform.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/otpform.php on line 20
+[04-Apr-2019 17:14:32 Asia/Singapore] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 17:14:32 Asia/Singapore] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 17:14:32 Asia/Singapore] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 17:14:43 Asia/Singapore] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 17:14:43 Asia/Singapore] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 17:14:43 Asia/Singapore] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/otpform.php on line 6
+[04-Apr-2019 04:15:23 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/homepageform.php on line 3
+[04-Apr-2019 04:15:23 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/homepageform.php on line 3
+[04-Apr-2019 04:15:23 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/homepageform.php on line 3
+[04-Apr-2019 17:15:26 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/kelvinlee16/public_html/process/homepageform.php:3) in /home2/kelvinlee16/public_html/process/homepageform.php on line 8
+[04-Apr-2019 17:31:44 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/kelvinlee16/public_html/process/register2.php:22) in /home2/kelvinlee16/public_html/process/register2.php on line 36
+[04-Apr-2019 17:41:31 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/kelvinlee16/public_html/process/register2.php:23) in /home2/kelvinlee16/public_html/process/register2.php on line 30
+[04-Apr-2019 17:42:58 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/kelvinlee16/public_html/process/register2.php:23) in /home2/kelvinlee16/public_html/process/register2.php on line 24
+[04-Apr-2019 17:42:58 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/kelvinlee16/public_html/process/register2.php:23) in /home2/kelvinlee16/public_html/process/register2.php on line 31
+[04-Apr-2019 11:57:42 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 3
+[04-Apr-2019 11:57:42 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 3
+[04-Apr-2019 11:57:42 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 3
+[04-Apr-2019 11:57:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 16
+[04-Apr-2019 11:57:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 17
+[04-Apr-2019 11:57:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/kelvinlee16/public_html/process/assessmentprocess.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/kelvinlee16/public_html/process/assessmentprocess.php on line 29
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:16:12 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:17:43 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:17:43 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:17:43 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:18:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:18:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:18:07 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessment.php on line 201
+[04-Apr-2019 12:21:43 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessmentpost.php on line 10
+[04-Apr-2019 12:21:43 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessmentpost.php on line 10
+[04-Apr-2019 12:21:43 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessmentpost.php on line 10
+[04-Apr-2019 12:31:36 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:31:36 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:31:58 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:31:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:22 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:22 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:38 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:40 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:40 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:59 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:32:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:27 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:38 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:38 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:33:38 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:39 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:40 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:40 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:43 America/Chicago] PHP Warning:  require_once(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:34:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'process/Sqlconnect.php' (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/emailpre.php on line 5
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:36:56 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:17 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:37:31 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:38:19 America/Chicago] PHP Warning:  include(../menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:38:19 America/Chicago] PHP Warning:  include(../menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:38:19 America/Chicago] PHP Warning:  include(): Failed opening '../menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/assessment.php on line 10
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:40:07 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:41:07 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:18 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:42:59 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:43:49 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:11 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 9
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:44:55 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(menubarNotLogin.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(menubarNotLogin.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(): Failed opening 'menubarNotLogin.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:11 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(menubarNotLogin.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(menubarNotLogin.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(): Failed opening 'menubarNotLogin.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 17
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:46:12 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:47:16 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:47:16 America/Chicago] PHP Warning:  include(endbar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 12:47:16 America/Chicago] PHP Warning:  include(): Failed opening 'endbar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/email.php on line 86
+[04-Apr-2019 13:49:56 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:49:56 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:49:56 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:49:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 35
+[04-Apr-2019 13:50:31 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:31 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:31 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 35
+[04-Apr-2019 13:50:38 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:38 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:38 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:38 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 35
+[04-Apr-2019 13:50:57 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:57 America/Chicago] PHP Warning:  include(process/Sqlconnect.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:57 America/Chicago] PHP Warning:  include(): Failed opening 'process/Sqlconnect.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 4
+[04-Apr-2019 13:50:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/kelvinlee16/public_html/process/changeEmail2.php on line 35
+[05-Apr-2019 02:56:25 Asia/Singapore] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/index.php on line 40
+[05-Apr-2019 02:56:25 Asia/Singapore] PHP Warning:  include(menubar.php): failed to open stream: No such file or directory in /home2/kelvinlee16/public_html/index.php on line 40
+[05-Apr-2019 02:56:25 Asia/Singapore] PHP Warning:  include(): Failed opening 'menubar.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home2/kelvinlee16/public_html/index.php on line 40

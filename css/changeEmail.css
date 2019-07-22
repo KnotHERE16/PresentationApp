@@ -1,0 +1,21 @@
+body
+{
+	margin: 0;
+	font-family: Consolas, monaco, monospace;
+}
+
+.container {
+	background-color: #FFFFFF;
+	width:100%;
+	padding-bottom: 50px;
+}
+
+.endbar
+{
+	background-color:#DC3546;
+	overflow:hidden;
+	height:30px;
+	width:100%;
+	border: 1px solid #333536; 	
+
+}
